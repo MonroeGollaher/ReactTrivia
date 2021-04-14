@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect, useState } from "react";
 import { getQuestions } from "./services/triviaService";
-import Card from "./services/components/Card/Card";
+import Card from "./components/Card/Card";
 
 function App() {
 
